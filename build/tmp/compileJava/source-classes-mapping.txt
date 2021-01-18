@@ -1,0 +1,16 @@
+co/com/choucair/certification/model/AcademyChoucairData.java
+ co.com.choucair.certification.model.AcademyChoucairData
+co/com/choucair/certification/userinterface/ChoucairLoginPage.java
+ co.com.choucair.certification.userinterface.ChoucairLoginPage
+co/com/choucair/certification/tasks/OpenUp.java
+ co.com.choucair.certification.tasks.OpenUp
+co/com/choucair/certification/userinterface/choucairAcademyPage.java
+ co.com.choucair.certification.userinterface.choucairAcademyPage
+co/com/choucair/certification/tasks/Login.java
+ co.com.choucair.certification.tasks.Login
+co/com/choucair/certification/questions/Answer.java
+ co.com.choucair.certification.questions.Answer
+co/com/choucair/certification/userinterface/SearchCoursePage.java
+ co.com.choucair.certification.userinterface.SearchCoursePage
+co/com/choucair/certification/tasks/Search.java
+ co.com.choucair.certification.tasks.Search
